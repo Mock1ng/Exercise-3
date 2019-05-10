@@ -1,2 +1,5 @@
 # Exercise-3
 Working with SWAPI
+
+Kode ini baru menggunakan 1 properti objek yaitu People.
+Insyaallah kedepan ditambah lagi objeknya huehue
