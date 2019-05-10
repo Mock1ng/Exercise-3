@@ -1,0 +1,15 @@
+{
+  "name": "swapi",
+  "version": "1.0.0",
+  "description": "Hactiv8 Courses",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Mock1ng"
+  },
+  "author": "Mock1ng",
+  "license": "MIT"
+}

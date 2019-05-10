@@ -1,0 +1,56 @@
+body {
+    background-image: url('../img/stars4.jpg');
+    background-size: cover;
+}
+
+.input-field label {
+    color: #26a69a;
+}
+
+.input-field input[type=number] {
+    color: #26a69a;
+}
+
+.tengah {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tombol {
+    position: absolute;
+    right: 0;
+    bottom: 45px;
+    margin-right: 0;
+    width: 100px;
+}
+
+#wadah {
+    display: block;
+    width: 600px;
+    height: 250px;
+    border: 10px solid #26a69a;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+h1 {
+    color: #26a69a;
+    text-align: center;
+}
+
+h3,
+p {
+    color: #26a69a;
+    margin: 10px 0 !important;
+}
+
+p {
+    font-size: 1.7em;
+}
+
+h3 {
+    font-size: 3em;
+}
